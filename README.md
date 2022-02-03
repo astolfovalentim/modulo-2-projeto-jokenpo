@@ -5,8 +5,6 @@ Objetivo: Criar um programa que jogue pedra, papel e tesoura — Jokenpô — ap
 Linguagem: JavaScript
 Motor: NodeJS
 Framework: JavaScript Vanilla
-Utilizando os conceitos aprendidos até estruturas de repetição, crie um programa que jogue pedra, papel
-e tesoura (Jokenpô) com você.
 
 Requisitos do programa:
 - Permitir que eu decida quantas rodadas iremos fazer;
