@@ -44,7 +44,7 @@ console.clear();
 // Proteção contra a digitação de valores inválidos
 
 while (roundsNum<=0 || isNaN(roundsNum)) {
-    console.log(`O que você digitou é válido. Tente novamente.`);
+    console.log(`O que você digitou é inválido. Tente novamente.`);
     roundsNum = +prompt(`Digite um número para definir quantas rodadas você quer jogar contra o computador:`);
     console.clear();
    
